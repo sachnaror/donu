@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = zoomed
+	geometry = 893x435+130+130 388 196
+[remote "new"]
+	url = sachnaror/donu
+	fetch = +refs/heads/*:refs/remotes/new/*
